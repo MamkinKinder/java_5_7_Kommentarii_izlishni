@@ -9,6 +9,7 @@ public class Main {
         // y = x * y;
         // y = x + y;
 
+        y = x + y;
         x = y - x;
         y = y - x;
 
